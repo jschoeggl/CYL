@@ -1,0 +1,9 @@
+
+
+
+body {width : 1000px;}
+header {width: 90%; background-color: #eeeeee; color: black; text-align: center;}
+nav {width: 10%; height: 400px; background-color: #eeeeee; float: left;}
+main {width: 65%; height: 400px; overflow: auto; float: left;}
+aside {width: 25%; height: 400px; background-color: #666666; float: left;}
+footer{width: 90%; background-color: #eeeeee; color: black; text-align: center; clear: both;}
